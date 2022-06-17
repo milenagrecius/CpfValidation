@@ -1,10 +1,5 @@
-using CpfValidation.Domain.Entities;
-using CpfValidation.Domain.Interfaces;
-using System;
-using System.Threading.Tasks;
-using Xunit;
-using FluentAssertions;
 using CpfValidation.Domain.Services;
+using Xunit;
 
 namespace CpfValidation.Tests
 {
