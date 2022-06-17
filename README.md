@@ -23,3 +23,10 @@ Execute a aplicação apertando F5</br>
  
  - Válido: retorna status code 200 com a mensagem "cpf válido"
  - Inválido: retorna status code 400 com a mensagem "cpf inválido"
+
+
+
+### Para executar o projeto de testes:
+Defina CpfValidation.Tests como projeto de inicialização</br>
+Execute a aplicação apertando CTRL + R + A</br>
+Obs: nos testes possuímos o cenário esperado e o cenário inválido. 
