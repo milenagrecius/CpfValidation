@@ -2,7 +2,7 @@
 {
     public class CpfEntities
     {
-        public string Cpf { get; private set; }
+        public string Cpf { get; set; }
         public CpfEntities(string cpf)
         {
             Cpf = cpf;
